@@ -1,5 +1,5 @@
 # server.R
-install.packages("shiny")
+# install.packages("shiny")
 library("shiny")
 
 shinyServer(function(input, output) {
